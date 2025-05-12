@@ -1,0 +1,3 @@
+Stack can be implemented either by Array or
+     LinkedList.LinkedList gives you
+dynamic functionality.
